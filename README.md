@@ -34,7 +34,7 @@ Quant strat built by pre-approved complaint ETFs.
 ## README.md
 ## requirements.txt
 ## .env.example
-## src/
+## srcActual/
 ### main.py
 ### config.py
 ### data/
